@@ -51,3 +51,7 @@ Discord only allows for updates of rich presence to be sent every 15 seconds. As
 #### Why do I need Tautulli?
 
 I use Tautulli because it's really great for wrapping any changes being made on Plex's side of things, as well as handling all the fancy stuff like getting tokens, and authenticating with Plex. It's also great to have if you happen to want to look at bandwidth monitoring, or just logging in Plex, and so most heavy users of Plex will have it installed anyway.
+
+### License
+
+This project is licensed under the MIT license.
