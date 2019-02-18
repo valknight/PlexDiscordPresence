@@ -34,6 +34,7 @@ The main JSON file should be something like so:
 }
 ```
 Below is a table with a description of each config option, and what it means.
+
 | Config key | Description                                                                                                                               | Example                             |
 |------------|-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
 | apikey     | The API key for your Tautulli instance. Find it under Settings > Web Interface                                                            | N/A                                 |
