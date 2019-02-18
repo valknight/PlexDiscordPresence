@@ -1,0 +1,7 @@
+{
+    "apikey": "changeme",
+    "host" : "127.0.0.1:8181",
+    "username" : "",
+    "client_id" : "changeme",
+    "libraries": []
+}
